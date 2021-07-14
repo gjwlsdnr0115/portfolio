@@ -11,6 +11,16 @@ email: gjwlsdnr0115@gmail.com
 
 ## Projects
 
+### _Freshi_
+`#Swift` `#iOS`
+
+[GitHub Link](https://github.com/gjwlsdnr0115/Freshi-App)
+
+A personal expiration date manager for food supplies.
+- Manage food supplies by expiration date, category, volume etc.
+
+## 
+
 ### _Turtlely_
 `#Swift` `#iOS`
 
