@@ -7,7 +7,7 @@ email: gjwlsdnr0115@gmail.com
 - Swift 🥇
 - Python 🥇
 - C++ 🥈
-- Java 🥉
+- Java 🥈
 
 ## Projects
 
