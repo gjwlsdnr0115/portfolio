@@ -11,6 +11,18 @@ email: gjwlsdnr0115@gmail.com
 
 ## Projects
 
+### _LastDay_
+`#Swift` `#iOS`
+
+[Download App](https://apps.apple.com/kr/app/lastday/id1591808526)\
+_Private repository_
+
+A personal travel guide application that recommends nearby travel destinations.
+- Provides personalized recommendations based on current location or travel schedule.
+- Can communicate with other nearby travelers through the "Community board".
+
+##
+
 ### _Freshi_
 `#Swift` `#iOS`
 
